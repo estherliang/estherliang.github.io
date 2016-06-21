@@ -1,0 +1,23 @@
+h1{
+  font-size: 30px;
+  color: #b3d9ff;
+  font-family: Arial;
+  backgorund-color: #001a33;
+  border: 2px dashed #cc99ff;;
+  float: centre;
+}
+
+h2{
+  font-size: Arial;
+  color: #ff4d94;
+  border: 2px solid yellow;
+}
+
+button{
+  font-size: 30px;
+  color: ;
+  font-family: Arial;
+  backgorund-color: #001a33;
+  border: 2px soild #4dffa6;
+  float: centre;
+}
